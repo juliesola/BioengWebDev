@@ -1,0 +1,14 @@
+body {
+    margin: 80px;
+    /* margin is what is shown as the outskirts of the webpage on langing.html when you press alt+command+j in chrome (under Elements)*/
+    text-align: center;
+}
+
+.loginbutton { /* putting a dot at the beginning means you're defining a class*/
+
+  background-color: #ff0000;
+      border: solid;
+      color: black;
+      padding: 15px 32px;  /* gives the size of the button clockwise: top, right, bottom, left */
+
+}
